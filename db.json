@@ -1,0 +1,109 @@
+{
+    "cats": [
+        {
+            "name": "Alice",
+            "age": 2,
+            "color": "Black",
+            "gender": "F",
+            "declawed": "Y"
+        },
+        {
+            "name": "Callie",
+            "age": 9,
+            "color": "Orange",
+            "gender": "F",
+            "declawed": "N"
+        },
+        {
+            "name": "Tommy",
+            "age": 5,
+            "color": "White",
+            "gender": "M",
+            "declawed": "N"
+        },
+        {
+            "name": "Blu",
+            "age": 1,
+            "color": "Gray",
+            "gender": "M",
+            "declawed": "Y"
+        },
+        {
+            "name": "Simon",
+            "age": 2,
+            "color": "Black",
+            "gender": "M",
+            "declawed": "Y"
+        },
+        {
+            "name": "Garfield",
+            "age": 7,
+            "color": "Orange",
+            "gender": "M",
+            "declawed": "N"
+        },
+        {
+            "name": "Greg",
+            "age": 3,
+            "color": "Orange",
+            "gender": "M",
+            "declawed": "Y"
+        },
+        {
+            "name": "Flo",
+            "age": 6,
+            "color": "White",
+            "gender": "F",
+            "declawed": "N"
+        },
+        {
+            "name": "John",
+            "age": 5,
+            "color": "Black",
+            "gender": "M",
+            "declawed": "Y"
+        },
+        {
+            "name": "Charlie",
+            "age": 3,
+            "color": "White",
+            "gender": "M",
+            "declawed": "N"
+        },
+        {
+            "name": "Tom",
+            "age": 3,
+            "color": "Gray",
+            "gender": "M",
+            "declawed": "Y"
+        },
+        {
+            "name": "Noelle",
+            "age": 3,
+            "color": "White",
+            "gender": "F",
+            "declawed": "Y"
+        },
+        {
+            "name": "Kelly",
+            "age": 6,
+            "color": "Black",
+            "gender": "F",
+            "declawed": "N"
+        },
+        {
+            "name": "Ralph",
+            "age": 4,
+            "color": "Gray",
+            "gender": "M",
+            "declawed": "N"
+        },
+        {
+            "name": "Sammy",
+            "age": 6,
+            "color": "White",
+            "gender": "F",
+            "declawed": "Y"
+        }
+    ]
+} 

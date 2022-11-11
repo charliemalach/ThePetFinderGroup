@@ -1,0 +1,20 @@
+#----------------------------------------------------------------------------------------------------#
+
+The PetFinder Group. Version 1.0.0, 10/28/22
+
+New Features:
+    - Application displays original cat availability data to the users. 
+	- Application allows users to filter through data based on the following criteria: Age, Color, Declawed, Gender, Name. 
+	- Application displays filtered data in CSV format for better readability.
+	- Application allows users to export both original and filtered data to a new CSV file. 
+	
+Known Issues:
+	- N/A
+
+Expected Next Version:
+	- Ability to add new cats to the list (using HTTPS PUTS methods)
+
+Links:
+	- GitHub Repository: https://github.com/charliemalach/-----
+
+#----------------------------------------------------------------------------------------------------#
