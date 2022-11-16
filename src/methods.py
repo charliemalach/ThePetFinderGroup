@@ -58,7 +58,7 @@ class methods:
     def save_csv(response):
         df = methods.convert_csv(response)
         file = input("Please name new CSV output:")
-        df.to_csv(file + '.csv', index=False)
+        df.to_csv('../results/'+ file + '.csv', index=False)
         click.echo("Success! Your results have been saved to " + file + ".csv.")
 
     #function to print results and save
